@@ -42,13 +42,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
-## 🏙️ Contribution Cityscape
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DataMeowTt/DataMeowTt/output/github-isometric-calendar.svg" width="95%"/>
-</div>
 
 ---
 
